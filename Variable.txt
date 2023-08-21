@@ -1,0 +1,28 @@
+## SYMBOLS ##
+
+@ - Player
+* - chips
+
+----- TILES -----
+
+' ' - Passable Tile
+| - Impassable Tile
+Y - Yellow door
+B - Blue door
+G - Green door
+W - Water Tile
+F - Fire Tile
+$ - Thief Tile
+> - Right Slide Tile
+< - Left Slide Tile
+# - Exit Door
+E - Exit
+
+----- ITEMS -----
+
+y - yellow key
+b - blue key
+g - green key 
+
+w - Water Immunity
+f - Fire Immunity
